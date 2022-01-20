@@ -1,0 +1,10 @@
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\obj\Release\Clutt4.5.csproj.AssemblyReference.cache
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\obj\Release\Clutt4._5.Clutt4_5.resources
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\obj\Release\Clutt4._5.warn.resources
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\obj\Release\Clutt4.5.csproj.GenerateResource.cache
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\bin\Release\Clutt4.5.exe
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\bin\Release\Clutt4.5.pdb
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\obj\Release\Clutt4._5.Properties.Resources.resources
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\obj\Release\Clutt4.5.csproj.CoreCompileInputs.cache
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\obj\Release\Clutt4.5.exe
+C:\Users\Owner\デスクトップ\Clutt-4.5-Peaceful-main\Clutt 4.5 peaceful\Clutt4.5\obj\Release\Clutt4.5.pdb
